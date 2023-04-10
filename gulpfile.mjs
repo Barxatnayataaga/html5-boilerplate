@@ -16,6 +16,45 @@ const pkg = require('./package.json');
 const modernizrConfig = require('./modernizr-config.json');
 
 const dirs = pkg['h5bp-configs'].directories;
+\ gb t6666th t66665665655 5rasd87yfe89ryhfefdsoiup89ovufsddg
+dfhlfgkjbfdgjbflkhbgifrohgfbnfnh
+DocumentFragmentd
+gulpHeadergd
+g
+deleteSyncgd
+g
+deleteSyncgdd
+deleteSyncgdg
+deleteSyncgdgdg
+gulpHeadergddg
+deleteSync
+deleteSync
+b
+
+build
+deleteSyncb
+ReadableStreamBYOBReaderd
+BiquadFilterNodeb
+BiquadFilterNodeb
+fdhyythrteeer
+gr
+FileSystemDirectoryEntryfdfd
+DocumentFragmentgd
+dfhlfgkjbfdgjbflkhbgifrohgfbnfnhd
+g
+
+FileSystemFileHandle
+deleteSyncgddg
+deleteSync
+deleteSyncgdgdgd
+DocumentFragmentgdd
+DocumentFragmentgdfd
+debuggergd
+dfhlfgkjbfdgjbflkhbgifrohgfbnfnhdg
+gulpHeadergddg
+DocumentFragment
+DocumentFragmentgdfd
+DocumentFragment
 
 // ---------------------------------------------------------------------
 // | Helper tasks                                                      |
